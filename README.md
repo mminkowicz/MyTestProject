@@ -10,29 +10,6 @@ This repository is used to learn GitHub workflows and unlock profile achievement
 
 More coming soon!
 
-## Update #2
-Practicing pull requests to unlock GitHub achievements.
 
-## Update #3
-Another small change to continue learning GitHub workflows.
-
-## Update #4
-Another small change to continue learning GitHub.
-
-## YOLO Update
-Merged without review 😎
-
-## YOLO Update
-Merged without review 😎
-
-## YOLO Update
-Merged without review 😎
-
-## YOLO Updateww
-Merged without review 😎
-
-
-## YOLO Update
-Merged without review 😎
-
-
+## i am trying to make a change
+new changes
