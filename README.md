@@ -9,3 +9,7 @@ This repository is used to learn GitHub workflows and unlock profile achievement
 - Merging pull requests
 
 More coming soon!
+
+## Update #2
+Practicing pull requests to unlock GitHub achievements.
+
